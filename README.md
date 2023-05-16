@@ -4,7 +4,7 @@
 
 The API Builder is a class that provides a convenient way to construct and execute API requests.
 
-![Example GIF](https://github.com/nir11/api-builder/src/assets/example.gif)
+![Example GIF](https://github.com/nir11/api-builder/blob/main/src/assets/example.gif)
 
 ## Builder Pattern
 
