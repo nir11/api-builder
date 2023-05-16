@@ -4,6 +4,8 @@
 
 The API Builder is a class that provides a convenient way to construct and execute API requests.
 
+![Example GIF](https://github.com/nir11/api-builder/src/assets/example.gif)
+
 ## Builder Pattern
 
 The API Builder follows the [Builder Pattern](https://refactoring.guru/design-patterns/builder) allowing the step-by-step construction of complex objects by separating the construction process from the object representation.
